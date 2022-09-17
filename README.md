@@ -10,3 +10,9 @@ npm install
 ```
 npm install --legacy-peer-deps
 ```
+
+## Run
+
+```
+expo start
+```
